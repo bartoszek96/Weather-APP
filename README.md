@@ -1,3 +1,16 @@
+# Weather APP
+
+This application allows you to check current weather of any city in the world. The application is responsive.
+
+## Try it live
+
+[Weather APP](https://bartoszek96.github.io/Weather-APP/)
+
+## The project uses:
+
+- Styled Components
+- Hooks
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
