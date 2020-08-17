@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
-export const StyledFigure = styled.figure`
+export const StyledSection = styled.section`
   text-align: center;
-  font-size: 1.5rem;
+  font-size: ${props => props.fontSize || "1.5rem"};
   margin: 10px 0;
 `;
